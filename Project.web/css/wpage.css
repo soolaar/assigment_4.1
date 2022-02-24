@@ -1,0 +1,33 @@
+.nav-link {
+color: #FFFFFF;
+font-family: Palatino, URW Palladio L, serif;
+}
+ul {
+background-color:#000000  ;
+}
+body {
+  background-color: #FFFFFF;
+}
+h1{
+  font-family:Courier New;
+  text-align: center;
+}
+a,p,h5 {
+font-family:Courier New;
+
+}
+
+
+button {
+  font-family:Courier New;
+
+}
+.col-md-4 {
+background-color:	#FFFFFF;
+}
+.col-md-8 {
+background-color:	#FFFFFF;
+}
+h4{
+  font-family: Palatino, URW Palladio L, serif;
+}

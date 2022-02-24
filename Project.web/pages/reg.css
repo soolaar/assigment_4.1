@@ -1,0 +1,37 @@
+body {
+    background-color: #FFFFFF;
+  }
+h3 {
+font-family: Palatino, URW Palladio L, serif;
+text-align: center;
+}
+h1{
+  font-family:Courier New;
+  text-align: center;
+}
+form li {
+font-family:Courier New;
+text-align: center;
+list-style: none;
+margin-bottom: 5px;
+}
+
+form ul li input, select, span {
+float: center;
+margin-bottom: 10px;
+}
+a {
+  color: #000000;
+}
+form textarea {
+float: center;
+width: 350px;
+height: 150px;
+}
+
+[type="submit"] {
+clear: center;
+margin: 20px 0 0 230px;
+font-size:15px
+font-family:Courier New;
+}
